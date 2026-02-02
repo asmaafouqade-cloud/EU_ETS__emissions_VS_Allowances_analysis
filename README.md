@@ -20,7 +20,7 @@
  - Visuals
 
 **Key outputs**
-  - Visual displaying emissions trends across sectors and EUA prices over the years
+  - Visual showing emissions trends across sectors and EUA prices over the years
   - Visual illustrating sectoral emissions reductions compared to EUA prices fluctuations 
 
 **Key findings**
